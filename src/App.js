@@ -18,7 +18,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/Andile-1/weather-project"
+            href="https://github.com/Andile-1/weather-app-project"
             target="_blank"
             rel="noopener noreferrer"
           >
