@@ -8,15 +8,7 @@ export default function App() {
       <div className="container">
         <Weather defaultCity={"Paris"} />
         <footer>
-          This project was coded by{" "}
-          <a
-            href="https://www.Andile.io/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Andile Jili
-          </a>{" "}
-          and is{" "}
+          This project was coded by Andile Jili and is{" "}
           <a
             href="https://github.com/Andile-1/weather-app-project"
             target="_blank"
